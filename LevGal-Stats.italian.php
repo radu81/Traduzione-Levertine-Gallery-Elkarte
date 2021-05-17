@@ -10,21 +10,21 @@
  */
 // Version: 1.0; LevGal stats
 
-$txt['levgal_stats_linktree'] = 'Media Statistics';
-$txt['levgal_stats'] = '%1$s - Media Statistics';
+$txt['levgal_stats_linktree'] = 'Statistiche Media';
+$txt['levgal_stats'] = '%1$s - Statistiche Media';
 
 // General Stats
-$txt['levgal_stats_general'] = 'General Stats';
-$txt['levgal_stats_total_items'] = 'Total Items:';
-$txt['levgal_stats_total_comments'] = 'Total Comments:';
-$txt['levgal_stats_total_albums'] = 'Total Albums:';
+$txt['levgal_stats_general'] = 'Statistiche generali';
+$txt['levgal_stats_total_items'] = 'Totale Elementi:';
+$txt['levgal_stats_total_comments'] = 'Totale Commenti:';
+$txt['levgal_stats_total_albums'] = 'Totale Album:';
 
-$txt['levgal_stats_average_items_day'] = 'Average Items Per Day:';
-$txt['levgal_stats_average_comments_day'] = 'Average Comments Per Day:';
-$txt['levgal_stats_total_filesize'] = 'Total Media Size:';
+$txt['levgal_stats_average_items_day'] = 'Media giornaliera elementi:';
+$txt['levgal_stats_average_comments_day'] = 'Media giornaliera commenti:';
+$txt['levgal_stats_total_filesize'] = 'Dimensione totale Media:';
 
 // And so it begins.
-$txt['levgal_stats_top_uploaders'] = 'Top Uploaders';
-$txt['levgal_stats_top_albums'] = 'Top Albums';
-$txt['levgal_stats_top_items_comments'] = 'Top Items (by Comments)';
-$txt['levgal_stats_top_items_views'] = 'Top Items (by Views)';
+$txt['levgal_stats_top_uploaders'] = 'Top Contribuenti';
+$txt['levgal_stats_top_albums'] = 'Top Album';
+$txt['levgal_stats_top_items_comments'] = 'Top Elementi (per commenti)';
+$txt['levgal_stats_top_items_views'] = 'Top Elementi (per visualizzazioni )';
