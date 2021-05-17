@@ -12,55 +12,55 @@
 
 // Important! Before editing these language files please read the text at the top of index.english.php.
 
-$txt['lgal_editing_album'] = 'Editing album: %1$s';
+$txt['lgal_editing_album'] = 'Modifica album: %1$s';
 
-$txt['lgal_edit_album_description'] = 'Here you can change various details of this album.';
-$txt['lgal_album_thumbnail'] = 'Album thumbnail:';
-$txt['lgal_thumbnail_no_change'] = 'Use the one already here';
-$txt['lgal_thumbnail_upload'] = 'Upload a new one';
-$txt['lgal_thumbnail_folder_colours'] = 'Colored folders';
-$txt['lgal_thumbnail_folder_icons'] = 'Folders with icons';
-$txt['lgal_thumbnail_icon_color_red'] = 'Red folder';
-$txt['lgal_thumbnail_icon_color_orange'] = 'Orange folder';
-$txt['lgal_thumbnail_icon_color_yellow'] = 'Yellow folder';
-$txt['lgal_thumbnail_icon_color_green'] = 'Green folder';
-$txt['lgal_thumbnail_icon_color_cyan'] = 'Cyan folder';
-$txt['lgal_thumbnail_icon_color_blue'] = 'Blue folder';
-$txt['lgal_thumbnail_icon_color_violet'] = 'Violet folder';
-$txt['lgal_thumbnail_icon_color_grey'] = 'Grey folder';
-$txt['lgal_thumbnail_icon_color_magenta'] = 'Magenta folder';
-$txt['lgal_thumbnail_icon_color_brown'] = 'Brown folder';
-$txt['lgal_thumbnail_icon_color_black'] = 'Black folder';
+$txt['lgal_edit_album_description'] = 'Qui puoi modificare vari dettagli di questo album.';
+$txt['lgal_album_thumbnail'] = 'Miniatura album:';
+$txt['lgal_thumbnail_no_change'] = 'Utilizza miniatura esistente';
+$txt['lgal_thumbnail_upload'] = 'Carica una nuova';
+$txt['lgal_thumbnail_folder_colours'] = 'Cartelle colorate';
+$txt['lgal_thumbnail_folder_icons'] = 'Cartelle con icone';
+$txt['lgal_thumbnail_icon_color_red'] = 'Cartella rossa';
+$txt['lgal_thumbnail_icon_color_orange'] = 'Cartella arancione';
+$txt['lgal_thumbnail_icon_color_yellow'] = 'Cartella gialla';
+$txt['lgal_thumbnail_icon_color_green'] = 'Cartella verde';
+$txt['lgal_thumbnail_icon_color_cyan'] = 'Cartella ciano';
+$txt['lgal_thumbnail_icon_color_blue'] = 'Cartella blu';
+$txt['lgal_thumbnail_icon_color_violet'] = 'Cartella viola';
+$txt['lgal_thumbnail_icon_color_grey'] = 'Cartella grigia';
+$txt['lgal_thumbnail_icon_color_magenta'] = 'Cartella magenta';
+$txt['lgal_thumbnail_icon_color_brown'] = 'Cartella marrone';
+$txt['lgal_thumbnail_icon_color_black'] = 'Cartella nera';
 
-$txt['lgal_thumbnail_icon_icon_picture'] = 'Folder with pictures';
-$txt['lgal_thumbnail_icon_icon_documents'] = 'Folder with documents';
-$txt['lgal_thumbnail_icon_icon_audio'] = 'Folder with audio';
-$txt['lgal_thumbnail_icon_icon_video'] = 'Folder with video';
-$txt['lgal_thumbnail_icon_icon_remote'] = 'Folder with web';
-$txt['lgal_thumbnail_icon_icon_home'] = 'Folder with home';
-$txt['lgal_thumbnail_icon_icon_favorites'] = 'Folder with star';
+$txt['lgal_thumbnail_icon_icon_picture'] = 'Cartella immagini ';
+$txt['lgal_thumbnail_icon_icon_documents'] = 'Cartella documenti';
+$txt['lgal_thumbnail_icon_icon_audio'] = 'Cartella audio';
+$txt['lgal_thumbnail_icon_icon_video'] = 'Cartella video';
+$txt['lgal_thumbnail_icon_icon_remote'] = 'Cartella web';
+$txt['lgal_thumbnail_icon_icon_home'] = 'Cartella home';
+$txt['lgal_thumbnail_icon_icon_favorites'] = 'Cartella stella';
 
-$txt['levgal_album_ownership'] = 'Who owns this album?';
-$txt['levgal_album_ownership_site'] = 'The site, this album has no owner';
-$txt['levgal_album_ownership_member'] = 'I own this album';
-$txt['levgal_album_ownership_group'] = 'This album is for a group...';
+$txt['levgal_album_ownership'] = 'Chi possiede questo album ?';
+$txt['levgal_album_ownership_site'] = 'Il sito, questo album non ha un proprietario';
+$txt['levgal_album_ownership_member'] = 'Io possiedo questo album';
+$txt['levgal_album_ownership_group'] = 'Questo album è di un gruppo...';
 
-$txt['levgal_album_add_owner'] = 'Add additional owners to this album:';
-$txt['levgal_album_remove_owner'] = 'Remove owners from this album:';
-$txt['levgal_album_current_owners'] = 'Current owners:';
-$txt['levgal_album_member_to_add'] = 'Member(s) to add:';
-$txt['levgal_album_member_to_remove'] = 'Tick which owners should be <em>removed</em>:';
-$txt['levgal_error_at_least_one_owner'] = 'There must be at least one owner to this album.';
-$txt['levgal_ownership_no_change'] = ' (change below)';
-$txt['levgal_album_edit_ownership_site'] = 'This album is owned by the site';
-$txt['levgal_album_edit_ownership_member'] = 'This album is owned by members';
-$txt['levgal_album_edit_ownership_group'] = 'This album is owned by groups';
+$txt['levgal_album_add_owner'] = 'Aggiungi altri proprietari a questo album :';
+$txt['levgal_album_remove_owner'] = 'Rimuovi proprietari da questo album :';
+$txt['levgal_album_current_owners'] = 'Proprietari attuali :';
+$txt['levgal_album_member_to_add'] = 'Utente(i) da aggiungere:';
+$txt['levgal_album_member_to_remove'] = 'Seleziona i prorietari da <em>rimuovere</em>:';
+$txt['levgal_error_at_least_one_owner'] = 'Deve essere presente almeno un proprietario di questo album.';
+$txt['levgal_ownership_no_change'] = ' (cambia sotto)';
+$txt['levgal_album_edit_ownership_site'] = 'Questo album è di proprietà del sito ';
+$txt['levgal_album_edit_ownership_member'] = 'Questo album è di proprietà degli utenti';
+$txt['levgal_album_edit_ownership_group'] = 'Questo album è di proprietà di gruppi ';
 
-$txt['levgal_album_privacy_title'] = 'Who should be able to see items in this album?';
-$txt['levgal_album_privacy_guests'] = 'Everyone, including guests';
-$txt['levgal_album_privacy_members'] = 'Members of the forum';
-$txt['levgal_album_privacy_justme'] = 'Just the album owner and the admins';
-$txt['levgal_album_privacy_custom'] = 'It\'s a bit complicated... (let me choose)';
+$txt['levgal_album_privacy_title'] = 'Chi dovrebbe vedere gli elementi di questo album?';
+$txt['levgal_album_privacy_guests'] = 'Tutti, ospiti inclusi';
+$txt['levgal_album_privacy_members'] = 'Utenti registrati';
+$txt['levgal_album_privacy_justme'] = 'Solo il proprietario dell\'album e gli amministratori ';
+$txt['levgal_album_privacy_custom'] = 'È un po\' complicato... (lasciami decidere)';
 
-$txt['levgal_album_create_error'] = 'We could not add your album:';
-$txt['levgal_album_edit_error'] = 'We could not edit your album:';
+$txt['levgal_album_create_error'] = 'Non è stato possibile aggiungere il tuo album :';
+$txt['levgal_album_edit_error'] = 'Non è stato possibile modificare il tuo album :';
