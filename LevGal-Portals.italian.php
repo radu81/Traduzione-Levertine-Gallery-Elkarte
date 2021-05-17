@@ -14,8 +14,8 @@
 
 // SimplePortal
 $txt['sp_function_sp_levgal_label'] = 'Levertine Gallery';
-$txt['sp_function_sp_levgal_desc'] = 'Displays recent items from the media gallery.';
-$txt['sp_param_sp_levgal_columns'] = 'Number of columns of items to display';
-$txt['sp_param_sp_levgal_rows'] = 'Number of rows of items to display';
-$txt['sp_param_sp_levgal_type'] = 'What to display';
-$txt['sp_param_sp_levgal_type_options'] = 'Latest items|Random items';
+$txt['sp_function_sp_levgal_desc'] = 'Visualizza elementi recenti dalla galleria.';
+$txt['sp_param_sp_levgal_columns'] = 'Numero colonne di elementi da visualizzare';
+$txt['sp_param_sp_levgal_rows'] = 'Numero di righe di elementi da visualizzare';
+$txt['sp_param_sp_levgal_type'] = 'Cosa visualizzare';
+$txt['sp_param_sp_levgal_type_options'] = 'Ultimi elementi|Elementi random';
