@@ -12,12 +12,12 @@
 
 // Important! Before editing these language files please read the text at the top of index.english.php.
 
-$txt['whoall_media'] = 'Viewing the media area.';
-$txt['whoall_media_home'] = 'Viewing the media area.';
-$txt['whoall_media_album'] = 'Viewing a media album.';
-$txt['whoall_media_file'] = 'Viewing a media item.';
-$txt['whoall_media_moderate'] = 'Viewing the media moderation area.';
-$txt['whoall_media_newalbum'] = 'Creating a new media album.';
-$txt['whoall_media_item'] = 'Viewing a media item.';
-$txt['whoall_media_stats'] = 'Viewing the media statistics.';
-$txt['whoall_media_unseen'] = 'Viewing their unseen media items.';
+$txt['whoall_media'] = 'Sta visualizzando la galleria.';
+$txt['whoall_media_home'] = 'Sta visualizzando l\'indice della galleria.';
+$txt['whoall_media_album'] = 'Sta visualizzando un album.';
+$txt['whoall_media_file'] = 'Sta visualizzando un elemento multimediale.';
+$txt['whoall_media_moderate'] = 'Sta visualizzando \'area moderazione media.';
+$txt['whoall_media_newalbum'] = 'Sta creando un nuovo album.';
+$txt['whoall_media_item'] = 'Sta visualizzando un elemento multimediale.';
+$txt['whoall_media_stats'] = 'Sta visualizzando le statistiche della galleria.';
+$txt['whoall_media_unseen'] = 'Sta visualizzando i nuovi elementi multimediali.';
