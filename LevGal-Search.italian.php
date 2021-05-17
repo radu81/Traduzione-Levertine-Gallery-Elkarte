@@ -13,35 +13,35 @@
 // Important! Before editing these language files please read the text at the top of index.english.php.
 
 // Search
-$txt['lgal_search_by_member'] = 'Items uploaded by member(s):';
-$txt['lgal_search_by_album'] = 'Choose an album to search in, or search all';
-$txt['lgal_search_type_image'] = 'Search images';
-$txt['lgal_search_type_audio'] = 'Search audio files';
-$txt['lgal_search_type_video'] = 'Search video files';
-$txt['lgal_search_type_document'] = 'Search documents';
-$txt['lgal_search_type_archive'] = 'Search archives/zip files';
-$txt['lgal_search_type_generic'] = 'Search for other files';
-$txt['lgal_search_type_external'] = 'Search for external videos';
-$txt['lgal_search_album_names'] = 'Search in album names';
-$txt['lgal_search_item_names'] = 'Search in item names';
-$txt['lgal_search_item_descs'] = 'Search in item descriptions';
+$txt['lgal_search_by_member'] = 'Elementi caricati dall\'utente(i):';
+$txt['lgal_search_by_album'] = 'Scegli un album dove cercare, oppure cerca in tutti';
+$txt['lgal_search_type_image'] = 'Cerca immagini';
+$txt['lgal_search_type_audio'] = 'Cerca file audio';
+$txt['lgal_search_type_video'] = 'Cerca file video';
+$txt['lgal_search_type_document'] = 'Cerca documenti';
+$txt['lgal_search_type_archive'] = 'Cerca archivi/file zip';
+$txt['lgal_search_type_generic'] = 'Cerca altri tipi di file';
+$txt['lgal_search_type_external'] = 'Cerca filmati esterni';
+$txt['lgal_search_album_names'] = 'Cerca nei nomi degli album';
+$txt['lgal_search_item_names'] = 'Cerca nei nomi degli elementi';
+$txt['lgal_search_item_descs'] = 'Cerca nelle descrizioni degli elementi';
 
-$txt['lgal_search_for'] = 'Search for:';
+$txt['lgal_search_for'] = 'Cerca per:';
 
-$txt['lgal_search_in_field'] = 'Search in \'%1$s\'';
+$txt['lgal_search_in_field'] = 'Cerca in \'%1$s\'';
 
-$txt['lgal_error_search'] = 'Something went wrong with your search:';
-$txt['lgal_error_no_text'] = 'You did not enter any text to search for.';
-$txt['lgal_error_no_albums'] = 'You did not select any albums.';
-$txt['lgal_error_no_filetypes'] = 'You did not select any types of files to search.';
-$txt['lgal_error_no_search'] = 'You did not select anything to search within.';
+$txt['lgal_error_search'] = 'Qualcosa è andato storto con la tua ricerca:';
+$txt['lgal_error_no_text'] = 'Non hai inserito alcun testo da cercare.';
+$txt['lgal_error_no_albums'] = 'Non hai selezionato alcun album.';
+$txt['lgal_error_no_filetypes'] = 'Non hai selezionato alcun tipo di file da cercare.';
+$txt['lgal_error_no_search'] = 'Non hai selezionato nulla in cui cercare.';
 
-$txt['lgal_search_results'] = 'Search Results';
-$txt['lgal_search_no_results'] = 'No results were found for your given criteria. You may wish to <a href="%1$s">refine your search</a>.';
+$txt['lgal_search_results'] = 'Risultati della ricerca';
+$txt['lgal_search_no_results'] = 'Nessun risultato trovato per i criteri specificati. Prova<a href="%1$s">affinare la tua ricerca</a>.';
 
-$txt['lgal_search_results_albums'] = 'Album Search Results';
-$txt['lgal_search_results_albums_none'] = 'No albums matching your criteria were found. You can try <a href="%1$s">editing your search</a> to see if that helps.';
-$txt['lgal_search_results_items'] = 'Item Search Results';
-$txt['lgal_search_results_items_none'] = 'No items matching your criteria were found. You can try <a href="%1$s">editing your search</a> to see if that helps.';
+$txt['lgal_search_results_albums'] = 'Risultati ricerca album';
+$txt['lgal_search_results_albums_none'] = 'Non sono stati trovati album corrispondenti ai tuoi criteri. Puoi provare a <a href="%1$s">modificare la tua</a>.';
+$txt['lgal_search_results_items'] = 'Risultati ricerca elementi';
+$txt['lgal_search_results_items_none'] = 'Non sono stati trovati elementi corrispondenti ai tuoi criteri. Puoi provare a <a href="%1$s">modificare la tua ricerca</a>.';
 
-$txt['lgal_search_refine'] = 'You can always try <a href="%1$s">editing the search</a> if you did not find what you were looking for.';
+$txt['lgal_search_refine'] = 'Puoi sempre provare a <a href="%1$s">modificare la tua ricerca</a> se non hai trovato quello che stavi cercando .';
