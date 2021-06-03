@@ -10,5 +10,4 @@ Link galleria [https://www.elkarte.net/community/index.php?topic=5969.0](https:/
 - LevGal.italian.php
 - ManageLevGal-CFields.italian.php
 - ManageLevGal-Importer.italian.php
-- ManageLevGal-Quotas.italian.php
 - ManageLevGal.italian.php
