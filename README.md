@@ -8,7 +8,6 @@ Link galleria [https://www.elkarte.net/community/index.php?topic=5969.0](https:/
 
 **File ancora da tradurre:**
 - LevGal.italian.php
-- LevGal-Profile.italian.php
 - ManageLevGal-CFields.italian.php
 - ManageLevGal-Importer.italian.php
 - ManageLevGal.italian.php
