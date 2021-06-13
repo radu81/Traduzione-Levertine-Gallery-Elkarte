@@ -7,6 +7,7 @@ Link galleria [https://www.elkarte.net/community/index.php?topic=5969.0](https:/
 * copia tutti i file .php in /themes/default/languages/levgal_lng
 
 **File ancora da tradurre:**
+- LevGal-Exif.italian.php 
 - LevGal.italian.php
 - ManageLevGal-CFields.italian.php
 - ManageLevGal-Importer.italian.php
